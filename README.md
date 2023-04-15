@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Henrique
 - 👀 I’m interested in Backend development
-- 🌱 I’m currently learning C++/React
+- 🌱 I’m currently learning C++, React.js and mainly Data Science using Python
 
 <div align="center">
   <a href="https://github.com/enriqTS">
